@@ -5,6 +5,8 @@
 
 idea插件，查看基金，股票：支持A股，港股，美股  
 
+根据huage2580的leeks1.8.6项目修改,增加了基金持仓价格,收益率展示   原项目连接: https://github.com/huage2580/leeks
+
 ## 请先阅读完readme，确保编码正确输入  
 提issues附上:使用的插件版本、IDEA详细的版本信息(到Help->about里面复制出来)，如果【Event Log】有异常信息，也请在issues附上异常  
 
